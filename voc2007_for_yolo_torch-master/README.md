@@ -16,11 +16,6 @@ Follow steps below:
 
 ---
 
-如果有问题欢迎发issue进行提问，或者直接联系我, 微信：DPJ3339330172
-
-也欢迎关注微信公众号：GiantPandaCV
-
-![](https://img-blog.csdnimg.cn/20200116212417846.jpg)
 
 如果不太理解，可以先看一下教程：https://www.cnblogs.com/pprp/p/10863496.html
 
