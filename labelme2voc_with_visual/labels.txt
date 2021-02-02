@@ -1,0 +1,7 @@
+__ignore__
+_background_
+signs_straight
+signs_turn
+parking_corner
+speed_bumps
+lane_line
