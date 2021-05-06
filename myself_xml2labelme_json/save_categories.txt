@@ -1,0 +1,1 @@
+{"categories": [{"supercategory": "none", "id": 0, "name": "PARKING_LANE"}, {"supercategory": "none", "id": 1, "name": "ARROW_BROKEN"}]}
